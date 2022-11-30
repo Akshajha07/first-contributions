@@ -1,9 +1,7 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
 - [Pawan Yadav](https://github.com/pawanyy)
-- [Saptarshi Ghosh @devsoc2022](https://github.com/zack-carnet)
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [Shivani R](https://github.com/shivu-srk)
@@ -121,6 +119,7 @@
 - [Arlin Ortiz](https://github.com/Aosmiles)
 - [Aditya Sharma](https://github.com/AdityaSharma223)
 - [Yash Wake](https://github.com/yashwxd)
+- [Akshaj Jha@DevSoc](https://github.com/Akshajha07)
 - [Ankith Motha](https://github.com/Alpha-github/)
 - [Masih Karimi](https://github.com/MasihKarimi)
 - [Aster Fung](https://github.com/aster-fung)
@@ -419,7 +418,6 @@
 - [Yatndeep Dubey](https://github.com/Yatndeep)
 - [Autumn Ouellette](https://github.com/Autumn-Ou)
 - [Fatin Almalik](https://github.com/Fatin-Almalik)
-- [Ayananshu Mohanty]@DevsocPI
 - [Mohammad Mubaslat](https://github.com/mohammadmubaslat)
 - [Arnaduga](https://github.com/arnaduga)
 - [PatentLobster](https://github.com/PatentLobster)
